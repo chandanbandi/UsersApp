@@ -1,0 +1,28 @@
+.card-sec {
+    margin-bottom: 15px;
+}
+
+.card-sec .card-header {
+    background: #66c8b1;
+}
+
+.card-sec .card-body {
+    border: 1px solid #66c8b1;
+}
+
+.accordion-header button.collapsed{
+    background-color: #66c8b1;
+}
+
+.accordion-header button:not(.collapsed){
+    background-color: #20c49e;
+    color: #000;
+}
+
+.accordion-header button:not(.collapsed)::after{
+    color: #000;
+}
+
+.accordion .accordion-item{
+    border: 1px solid #66c8b1;
+}

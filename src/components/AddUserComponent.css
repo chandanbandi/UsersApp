@@ -1,0 +1,19 @@
+.btn.btn-cta {
+    border: 1px solid #66c8b1;
+    background-color: #66c8b1;
+    color: #000;
+}
+
+.btn.btn-cta:hover {
+    background-color: #ffffff;
+}
+
+.btn.btn-cta-default {
+    border: 1px solid #66c8b1;
+    background-color: #ffffff;
+    color: #000;
+}
+
+.btn.btn-cta-default:hover {
+    background-color: #ffffff;
+}

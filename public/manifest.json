@@ -1,0 +1,7 @@
+{
+  "short_name": "Consumers App",
+  "name": "Consumers App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}

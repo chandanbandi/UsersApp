@@ -1,0 +1,31 @@
+.pageNumbers{
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.pageNumbers li{
+    padding: 10px;
+    border: 1px solid #66c8b1;
+    cursor: pointer;
+}
+
+.pageNumbers li.active{
+    background-color: #66c8b1;
+    color: #000;
+}
+
+.pageNumbers li.previous, .pageNumbers li.next{ 
+    padding: 0;
+}
+
+.pageNumbers li.previous button, .pageNumbers li.next button{ 
+    background-color: white;
+    border: transparent;
+    cursor: pointer;
+    padding: 10px;
+}
+
+
+
+
